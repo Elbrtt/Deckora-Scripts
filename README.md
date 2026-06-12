@@ -2,6 +2,6 @@
 source code for our deckora project scripts.
 
 Our Team: 
-Aurelius Elbert
-Davin Juandika
-Iman Arsyad Nafidz
+Aurelius Elbert/
+Davin Juandika/
+Iman Arsyad Nafidz/
